@@ -4,4 +4,4 @@ My name is Sean. I'm 18 years old and I'm from the United States. I'm currently 
 
 I enjoy programming in C++, Java, and Javascript. Maybe one day I'll make something cool. 
 
-[![sp00p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp00p&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![sp00p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp00p&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
