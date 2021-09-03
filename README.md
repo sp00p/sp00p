@@ -1,6 +1,6 @@
 # Hello fellow developer(s)!
 
-My name is Sean. I'm 18 years old and I'm from the United States. I'm currently pursuing a degree in biochemistry as Arizona State University. I mainly use this place for side projects or terrible ideas that go horribly wrong. 
+My name is Sean. I'm 19 years old and I'm from the United States. I'm currently pursuing a degree in biochemistry as Arizona State University. I mainly use this place for side projects or terrible ideas that go horribly wrong. 
 
 I enjoy programming in C++, Java, Lua, and Javascript. Maybe one day I'll make something cool. 
 
