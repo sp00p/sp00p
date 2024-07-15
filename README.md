@@ -7,3 +7,5 @@ I enjoy programming in C++, Java, Lua, and Javascript. Maybe one day I'll make s
 [![sp00p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp00p&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sp00p&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=sp00p&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
