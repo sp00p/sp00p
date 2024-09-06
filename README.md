@@ -1,6 +1,6 @@
 # Hello fellow developer(s)!
 
-My name is Sean. I'm 21 years old and I'm from the United States. I mainly use this place for side projects or terrible ideas that go horribly wrong. 
+My name is Sean. I'm 22 years old and I'm from the United States. I mainly use this place for side projects or terrible ideas that go horribly wrong. 
 
 I enjoy programming in C++, Java, Lua, and Javascript. Maybe one day I'll make something cool. 
 
